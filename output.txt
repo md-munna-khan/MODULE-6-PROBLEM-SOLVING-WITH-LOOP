@@ -1,0 +1,4 @@
+Even: 86
+Odd: 0
+Positive: 86
+Negative: 0
